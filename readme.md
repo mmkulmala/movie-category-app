@@ -1,7 +1,13 @@
-# Guide to Quarkus Demo Project [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
+# Simple movie categorization app
 
-In this project I'm demonstrating the most interesting features of [Quarkus](https://quarkus.io/) for building applications in Kotlin.
+This is simple movie categorization app done with Quarkus and Kotlin. This now categorizes movies persists, 
+but could be used to get movies from IMBD and other sources. While they have the date, this
+app could be used to enrich the data.
 
-## Getting Started 
-Here's a full list of available examples:
-1. Using Quarkus for building REST application that connects to H2 database using Hibernate ORM. The example is available in the module [employee-service](https://github.com/piomin/sample-quarkus-applications/tree/master/employee-service). A detailed guide may be find in the following article: [Guide to Quarkus with Kotlin](https://piotrminkowski.com/2020/08/09/guide-to-quarkus-with-kotlin/)
+## Why this solution?
+
+Being interested in Kotlin for couple of years I wanted to create 
+something else than a CVBank with it. Quarkus seemed like ideal candidate
+after Spring monoliths!
+
+## How to get real data?
