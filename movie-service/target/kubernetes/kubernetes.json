@@ -5,9 +5,9 @@
     "annotations" : {
       "prometheus.io/path" : "/metrics",
       "prometheus.io/port" : "8080",
-      "app.quarkus.io/commit-id" : "f6ae37288ed445177f23291c921c6099cfc58c6e",
-      "app.quarkus.io/vcs-url" : "https://github.com/piomin/sample-quarkus-applications.git",
-      "app.quarkus.io/build-timestamp" : "2020-08-12 - 09:52:59 +0000",
+      "app.quarkus.io/commit-id" : "08625691d242d7725ed3c2f3e3ea734d815c8198",
+      "app.quarkus.io/vcs-url" : "https://github.com/mmkulmala/movie-category-app.git",
+      "app.quarkus.io/build-timestamp" : "2020-08-12 - 10:17:34 +0000",
       "prometheus.io/scrape" : "true"
     },
     "labels" : {
@@ -23,9 +23,9 @@
     "annotations" : {
       "prometheus.io/path" : "/metrics",
       "prometheus.io/port" : "8080",
-      "app.quarkus.io/commit-id" : "f6ae37288ed445177f23291c921c6099cfc58c6e",
-      "app.quarkus.io/vcs-url" : "https://github.com/piomin/sample-quarkus-applications.git",
-      "app.quarkus.io/build-timestamp" : "2020-08-12 - 09:52:59 +0000",
+      "app.quarkus.io/commit-id" : "08625691d242d7725ed3c2f3e3ea734d815c8198",
+      "app.quarkus.io/vcs-url" : "https://github.com/mmkulmala/movie-category-app.git",
+      "app.quarkus.io/build-timestamp" : "2020-08-12 - 10:17:34 +0000",
       "prometheus.io/scrape" : "true"
     },
     "labels" : {
@@ -53,9 +53,9 @@
     "annotations" : {
       "prometheus.io/path" : "/metrics",
       "prometheus.io/port" : "8080",
-      "app.quarkus.io/commit-id" : "f6ae37288ed445177f23291c921c6099cfc58c6e",
-      "app.quarkus.io/vcs-url" : "https://github.com/piomin/sample-quarkus-applications.git",
-      "app.quarkus.io/build-timestamp" : "2020-08-12 - 09:52:59 +0000",
+      "app.quarkus.io/commit-id" : "08625691d242d7725ed3c2f3e3ea734d815c8198",
+      "app.quarkus.io/vcs-url" : "https://github.com/mmkulmala/movie-category-app.git",
+      "app.quarkus.io/build-timestamp" : "2020-08-12 - 10:17:34 +0000",
       "prometheus.io/scrape" : "true"
     },
     "labels" : {
@@ -77,9 +77,9 @@
         "annotations" : {
           "prometheus.io/path" : "/metrics",
           "prometheus.io/port" : "8080",
-          "app.quarkus.io/commit-id" : "f6ae37288ed445177f23291c921c6099cfc58c6e",
-          "app.quarkus.io/vcs-url" : "https://github.com/piomin/sample-quarkus-applications.git",
-          "app.quarkus.io/build-timestamp" : "2020-08-12 - 09:52:59 +0000",
+          "app.quarkus.io/commit-id" : "08625691d242d7725ed3c2f3e3ea734d815c8198",
+          "app.quarkus.io/vcs-url" : "https://github.com/mmkulmala/movie-category-app.git",
+          "app.quarkus.io/build-timestamp" : "2020-08-12 - 10:17:34 +0000",
           "prometheus.io/scrape" : "true"
         },
         "labels" : {
