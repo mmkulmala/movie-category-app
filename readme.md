@@ -19,3 +19,12 @@ to database. Plus you don't have think about real database problems.
 
 Next things include adding real database and integrating calls to IMDB and Netflix
 to get their data either directly or async way saving data to database (basically caching data).
+
+## Problems and todo's
+
+Kotlin version has couple of problems, which I haven't found an answer yet 
+(well that's why I have the god awful listAll()->contains thingy here ;) .. didn't get IN (:categories) HQL-queries to work).
+That is going away when I got more time on my hands and I find better solution.
+
+That's one thing, other being TODO-list with new service for Netflix (saving N's data about movie categories)
+and other being IMDB service doing the same for IMDB.
