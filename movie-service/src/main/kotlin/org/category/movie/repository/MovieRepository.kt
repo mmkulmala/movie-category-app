@@ -8,7 +8,7 @@ import javax.enterprise.context.ApplicationScoped
 class MovieRepository: PanacheRepository<Movie> {
 
     /**
-     * Work around for named queries missing from Kotlin version
+     * Work around for queries in Kotlin version
      */
     fun findByCategories(categories: List<String>): List<Movie> {
         val movs = emptyList<Movie>().toMutableList()
